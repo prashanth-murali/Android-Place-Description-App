@@ -1,0 +1,40 @@
+{
+  "ASU-West" : 
+  {
+    "address-title" : "ASU West Campus",
+    "address-street" : "13591 N 47th Ave$Phoenix AZ 85051",
+    "elevation" : 1100.0,
+    "latitude" : 33.608979,
+    "longitude" : -112.159469,
+    "name" : "ASU-West",
+    "image" : "asuwest",
+    "description" : "Home of ASU's Applied Computing Program",
+    "category" : "School"
+  },
+  "UAK-Anchorage" : 
+  {
+    "address-title" : "University of Alaska at Anchorage",
+    "address-street" : "290 Spirit Dr$Anchorage AK 99508",
+    "elevation" : 0.0,
+    "latitude" : 61.189748,
+    "longitude" : -149.826721,
+    "name" : "UAK-Anchorage",
+    "image" : "univalaska",
+    "description" : "University of Alaska's largest campus",
+    "category" : "School"
+  },
+  "Circlestone" :
+  {
+    "address-title" : "",
+    "address-street" : "",
+    "elevation" : 6000.0,
+    "latitude" : 33.477524,
+    "longitude" : -111.134345,
+    "name" : "Circlestone",
+    "image" : "circlestone",
+    "description" : "Indian Ruins located on the second highest peak in the Superstition Wilderness of the Tonto National Forest. Leave Fireline at Turney Spring (33.487610,-111.132400)",
+    "category" : "Hike"
+  }
+
+
+}
